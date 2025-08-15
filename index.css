@@ -148,6 +148,7 @@ html {
 }
 
 .cta-button {
+    text-decoration: none;
     padding: 14px 35px;
     border: 2px solid white;
     background: transparent;
